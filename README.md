@@ -15,3 +15,7 @@ pip install -r requirements.txt
 ```
 
 para testar basta importar o arquivo `Insomnia_endpoints_export.json` no Insomnia ou postman e fazer as requisições que desejar.
+
+## Autores
+- [**Marcos Beraldo Barros**](https://github.com/MarcosBB)
+- [**Matheus Saraiva Alves De Araujo Lima**](https://github.com/matsaraiva)
